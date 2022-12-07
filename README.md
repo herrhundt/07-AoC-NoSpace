@@ -22,8 +22,5 @@ This program solves the 7th puzzle of <a href="https://adventofcode.com/2022">Ad
     </tr> 
 </table>  
 
-<b>Interesting methods:</b> 
-<br>
-<ul>
-  too many! 
-</ul>
+<b>UML-Diagram</b> 
+<img src="https://github.com/herrhundt/07-AoC-NoSpace/blob/main/image.png">
