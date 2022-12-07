@@ -19,6 +19,8 @@ This program solves the 7th puzzle of <a href="https://adventofcode.com/2022">Ad
     <tr>
       <td>difficulty</td>
       <td>☆☆☆</td>
+      <td>ressources</td>
+      <td><a href="https://github.com/herrhundt/07-AoC-NoSpace/blob/main/Abiturklausur-Dateisystem.pdf">old exam about a file system hierarchy (german)</a></td>
     </tr> 
 </table>  
 
