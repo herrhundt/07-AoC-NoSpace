@@ -14,7 +14,7 @@ This program solves the 7th puzzle of <a href="https://adventofcode.com/2022">Ad
   </tr> 
     <tr>
      <td>used data structures</td>
-     <td><a href="https://www.w3schools.com/java/java_arrays.asp">array</a>, <a href="https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html">ArrayList</a></td>
+     <td> <a href="https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html">ArrayList</a></td>
    </tr> 
     <tr>
       <td>difficulty</td>
